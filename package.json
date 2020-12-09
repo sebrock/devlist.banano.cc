@@ -1,8 +1,8 @@
 {
   "version": "0.1.0",
-  "name": "bitcoindevlist.com",
-  "description": "Support bitcoin developers so they can focus on building our future.",
-  "repository": "git@github.com:dennisreimann/bitcoindevlist.com.git",
+  "name": "devlist.banano.cc",
+  "description": "Support banano developers so they can focus on building cool stuff for the banano community.",
+  "repository": "git@github.com:sebrock/devlist.banano.cc.git",
   "license": "MIT",
   "engines": {
     "node": ">=14.0.0"
