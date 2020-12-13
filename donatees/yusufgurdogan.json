@@ -5,14 +5,15 @@
 "ban_account": "ban_",
 "sponsor_link": "",
 "avatar": "https://raw.githubusercontent.com/banano-trade/homepage/main/assets/img/apple-icon-180x180.png",
-"description": "I am Yusuf Gürdoğan from Istanbul, Turkey. I am the creator of [Kuyumcu](https://banano.trade/), a cryptocurrency Atomic Swap Service, where banano can be traded for nano and moon. You can find my blog (in Turkish) [here](https://yusufgurdogan.com/)",
+"description": "I am Yusuf Gürdoğan from Istanbul, Turkey. I am the creator of [Kuyumcu](https://banano.trade/), a cryptocurrency Atomic Swap Service, where banano can be traded for nano and moon and vice versa. You can find my blog about the project [here](https://blog.nano.trade/)",
 "tags": [
 "Kuyumcu",
 "nano.trade",
+"banano",
 "nano",
 "moon",
 "exchange",
 "Python",
-"Javascript",
+"Javascript"
 ]
 }
